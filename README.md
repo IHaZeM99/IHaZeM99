@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi 👋, I'm Hazem
 
-<!--
-**IHaZeM99/IHaZeM99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student**  
+Cairo University  
 
-Here are some ideas to get you started:
+- 🌱 Always eager to learn something new
+- 💻 Enthusiastic about coding, problem-solving, and innovation  
+- 📫 How to reach me: [hazem.a9021@gmail.com](mailto:hazem.a9021@gmail.com)
+- Let’s build something amazing together! 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/your-linkedin-profile](https://www.linkedin.com/in/hazem-ahmed-a28566305/))
+
+---
+
+### Languages:
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
